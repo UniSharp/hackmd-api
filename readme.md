@@ -1,4 +1,4 @@
-# Lumen PHP Framework
+# HackMD API
 
 [![Build Status](https://api.travis-ci.org/unisharp/hackmd-api.svg)](https://travis-ci.org/unisharp/hackmd-api)
 
